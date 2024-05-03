@@ -125,8 +125,8 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 
 卫视频道,#genre#
 
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
